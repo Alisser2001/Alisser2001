@@ -21,9 +21,19 @@ Hi there 👋
 ⚡ I'm looking for ...
 
 - Currently I just graduated as a full stack developer at the SoyHenry bootcamp and I am looking for a job as a developer, preferably backend, where I can demonstrate my skills with the technologies I usually handle and I can take a step further in my personal training in soft skills and teamwork.
-- I am proficient in programming languages such as JavaScript, TypeScript, Python and I am currently developing backend and java game development skills.
-- I have experience in handling different frontend tools such as ReactJS, Redux, MaterialUI and CSS3.
-- I have experience in backend development technologies such as NodeJS, Express, HTTP protocol, the Sequelize ORM and relational database management with MySQL and PostgreSQL.
+
+☕ Tecnologies ...
+
+- JavaScript, TypeScript, Python and Java.
+- ReactJs
+- NodeJs
+- Redux
+- Express
+- Sequelize
+- MySQL
+- PostgreSQL
+- CSS3 and HTML5
+- GitFLow
 
 🌱 I am currently learning ...
 
