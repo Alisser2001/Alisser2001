@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 
 <!--
 **Alisser2001/Alisser2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Full Stack Developer con experiencia en tecnologías como Node JS, React, Redux, SQL y Express, entre otros frameworks y librerias de JavaScript.
+- Experiencia en el bootcamp de SoyHenry como Full Stack Developer por 8 meses, además cuento con algunas certificaciones previas como algoritmos y estructuras de datos con JavaScript, manejo de bases de datos relacionales y diseño web responsivo con CSS.
+- He desarrollado proyectos de páginas web por cuenta propia, también participé en una aplicación web de venta y compra de servicios de cursos de programación online como sustentación de la etapa del proyecto final de SoyHenry, la cual, además de contar con las tecnologías descritas más arriba, contó con una metodología de trabajo ágil SCRUM, y en la cual me encargué principalmente de un backend desarrollado en Node JS, Express, el ORM Sequelize y una base de datos creada con PostgreSQL.
+- Por cuenta propia he aprendido los lenguajes de programación TypeScript y Python, actualmente estoy aprendiendo Java y su enfoque al desarrollo backend de aplicaciones web.
+- Egresado del programa Técnico en sistemas del SENA de Colombia, con una duración de 6 meses de aprendizaje teórico y 6 meses de aprendizaje práctico, con experiencia en redes informaticas y mantenimiento preventivo de computadores.
+- Actualmente soy estudiante de Ingeniería de Sistemas en la Universidad de Antioquia y Ciencias de la Computación de la Universidad Nacional.
