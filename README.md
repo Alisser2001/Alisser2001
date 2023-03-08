@@ -8,6 +8,12 @@ Hi there 👋
 
 - I have developed web projects on my own, I also participated in a web application for selling and buying services online programming courses as support for the final project stage of SoyHenry, which, in addition to having the technologies described above, had an agile work methodology SCRUM, and in which I was mainly responsible for a backend developed in Node JS, Express, the ORM Sequelize and a database created with PostgreSQL.
 
+💻 I have worked at ...
+
+- Aplicación web de servicios de aprendizaje en linea, enfocada hacia la creación, compra y venta de cursos de programación. La aplicación hizo parte de la etapa de proyecto final del bootcamp SoyHenry, con una duración de un mes y en la cual colaboramos un total de 8 personas haciendo uso de las metodologías agiles SCRUM. Para el proyecto se usó principalmente el lenguaje de programación TypeScript, haciendo uso de tecnologías como React, Redux y Material UI para el front-end, y tecnologías para el back-end tales como Express, NodeJs, el ORM Sequelize junto con el sistema gestor de DB PostgreSQL. En su desarrollo participé principalmente en la implementación del back-end, tareas como la creación de modelos y sus relaciones, configuración del compilador de TypeScript, manejo del CRUD en general para usuarios y administradores, y el manejo de errores y excepciones desde la parte de back-end.
+- Página web que brinda informacón a las personas sobre las disintas razas de perro existentes. La página fue desarrollada como entrega final de la instancia de proyecto individual del bootcamp SoyHenry. Esta página fue desarrollada principalmente en JavaScript, haciendo uso de tecnologías como React, Redux y CSS para el front, y tecnologías como Express, NodeJs y el ORM Sequelize junto con un modelo de DB relacional usando PosgreSQL
+- Aplicación web que brinda información al usuario sobre las condiciones climatológicas en la zona que indique. Esta página fue desarrollada principalmente en JavaScript, haciendo uso de tecnologías como React, Redux y CSS, además de hacer uso de la API externa de OpenWeather (https://openweathermap.org/) para la información del estado climatológico de cada ciudad.
+
 🤔 I'm currently working ...
 
 - I am making my own personal portfolio, and I am also looking for ways to implement new languages like Python and Java with what I already know for future projects.
