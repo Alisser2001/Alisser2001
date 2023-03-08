@@ -1,23 +1,25 @@
 Hi there 👋
 
+- My name is Estiven Muñoz, Full Stack Developer with experience in technologies such as Node JS, React, Redux, SQL and Express, among other JavaScript frameworks and libraries.
+- Experience in SoyHenry's bootcamp as a Full Stack Developer for 8 months, I also have some previous certifications such as algorithms and data structures with JavaScript, relational database management and responsive web design with CSS.
+- I am a graduate of the SENA Systems Technician program in Colombia, with a duration of 6 months of theoretical learning and 6 months of practical learning, with experience in computer networks and preventive maintenance of computers.
+
+🔭 I have worked in ...
+
+- I have developed web projects on my own, I also participated in a web application for selling and buying services online programming courses as support for the final project stage of SoyHenry, which, in addition to having the technologies described above, had an agile work methodology SCRUM, and in which I was mainly responsible for a backend developed in Node JS, Express, the ORM Sequelize and a database created with PostgreSQL.
+
+🤔 I'm currently working...
+
+- I am making my own personal portfolio, and I am also looking for ways to implement new languages like Python and Java with what I already know for future projects.
+
+🌱 I am currently learning ...
+
+- On my own I have learned TypeScript and Python programming languages, currently I am learning Java and its approach to backend development of web applications.
+- Currently I am a student of Systems Engineering at the University of Antioquia and Computer Science at the National University.
+
 <!--
-**Alisser2001/Alisser2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-- Full Stack Developer con experiencia en tecnologías como Node JS, React, Redux, SQL y Express, entre otros frameworks y librerias de JavaScript.
-- Experiencia en el bootcamp de SoyHenry como Full Stack Developer por 8 meses, además cuento con algunas certificaciones previas como algoritmos y estructuras de datos con JavaScript, manejo de bases de datos relacionales y diseño web responsivo con CSS.
-- He desarrollado proyectos de páginas web por cuenta propia, también participé en una aplicación web de venta y compra de servicios de cursos de programación online como sustentación de la etapa del proyecto final de SoyHenry, la cual, además de contar con las tecnologías descritas más arriba, contó con una metodología de trabajo ágil SCRUM, y en la cual me encargué principalmente de un backend desarrollado en Node JS, Express, el ORM Sequelize y una base de datos creada con PostgreSQL.
-- Por cuenta propia he aprendido los lenguajes de programación TypeScript y Python, actualmente estoy aprendiendo Java y su enfoque al desarrollo backend de aplicaciones web.
-- Egresado del programa Técnico en sistemas del SENA de Colombia, con una duración de 6 meses de aprendizaje teórico y 6 meses de aprendizaje práctico, con experiencia en redes informaticas y mantenimiento preventivo de computadores.
-- Actualmente soy estudiante de Ingeniería de Sistemas en la Universidad de Antioquia y Ciencias de la Computación de la Universidad Nacional.
