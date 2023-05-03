@@ -21,6 +21,8 @@ Hi there 👋
 - JavaScript, TypeScript, Python and Java.
 - ReactJs
 - NodeJs
+- NextJs
+- ViteJs
 - Redux
 - Express
 - Sequelize
