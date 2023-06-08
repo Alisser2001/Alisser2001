@@ -22,14 +22,17 @@ Hi there 👋
 - ReactJs
 - NodeJs
 - NextJs
+- NestJs
 - ViteJs
 - Redux
 - Express
 - Sequelize
+- TypeORM
 - MySQL
 - PostgreSQL
 - CSS3 and HTML5
 - GitFLow
+- PostMan
 
 🌱 I am currently learning ...
 
