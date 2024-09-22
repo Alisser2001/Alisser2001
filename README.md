@@ -40,7 +40,7 @@ PostMan
 
 I am currently a student of Systems Engineering at the University of Antioquia and Computer Science at the National University. I also like to focus my free time to learn in various courses, in this link you can find all my certifications: 
 
-https://drive.google.com/drive/folders/1BB-DEmcK4UqsKDXK4J4J1O0Q3CAUAsM5?usp=sharing
+https://alidev-certificates.vercel.app/
 
 💻 I have worked in ...
 
@@ -57,7 +57,7 @@ https://drive.google.com/drive/folders/1BB-DEmcK4UqsKDXK4J4J1O0Q3CAUAsM5?usp=sha
 
 📫 How to contact me: ...
 
-Portfolio: https://portfolio-alisser2001.vercel.app/
+Portfolio: https://alidev-portfolio.vercel.app/
 LinkedIn: https://www.linkedin.com/in/alisser2001/
 Instagram: https://www.instagram.com/alisser2001/
 Facebook: https://www.facebook.com/Alisser2001/
