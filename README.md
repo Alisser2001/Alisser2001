@@ -57,10 +57,10 @@ https://alidev-certificates.vercel.app/
 
 📫 How to contact me: ...
 
-Portfolio: https://alidev-portfolio.vercel.app/
-LinkedIn: https://www.linkedin.com/in/alisser2001/
-Instagram: https://www.instagram.com/alisser2001/
-Facebook: https://www.facebook.com/Alisser2001/
-Gmail: Estiven25b777@gmail.com
-Discord Tag: #8172
-Slack ID: U03LV4KAXAA
+- Portfolio: https://alidev-portfolio.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/alisser2001/
+- Instagram: https://www.instagram.com/alisser2001/
+- Facebook: https://www.facebook.com/Alisser2001/
+- Gmail: Estiven25b777@gmail.com
+- Discord Tag: #8172
+- Slack ID: U03LV4KAXAA
