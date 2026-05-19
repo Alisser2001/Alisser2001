@@ -1,66 +1,201 @@
-Hi there 👋
+<div align="center">
 
-My name is Estiven Muñoz, Jr Full Stack Developer with experience in languages like JavaScript, TypeScript, Java, Python, Arduino and C#.
-Experience in SoyHenry bootcamp as a Full Stack Web Developer for 8 months, I also have some previous and subsequent certifications in different areas of application development.
-I am a graduate of the SENA Systems Technician program in Colombia, with a duration of 6 months of theoretical learning and 6 months of practical learning, with experience in computer networks, IT infrastructure and preventive maintenance of computers.
+# Hi there, I'm Estiven Muñoz 👋
 
-🔭 I have worked in ...
+### Full Stack Developer | Backend Engineer | Cloud & DevOps Enthusiast
 
-I have developed multiple projects on my own, for example I participated in an E-Learning web application as part of the final project stage of SoyHenry, which, in addition to having several modern web development technologies, had an agile SCRUM work methodology, and in which I was mainly responsible for a backend developed in Node JS, Express, the ORM Sequelize and a database created with PostgreSQL.
+<p>
+Passionate about building scalable backend systems, cloud-native applications, and impactful digital solutions.
+</p>
 
-🤔 I am currently working ....
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Estiven_Muñoz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alisser2001/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-black?style=for-the-badge&logo=vercel)](https://alidev-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:estiven25b777@gmail.com)
 
-In my free time I dedicate myself to learn about cybersecurity and network security, but I usually focus most of my time to learn and develop projects with new technologies for software development, currently I'm focused on ASP.NET and Spring Boot as part of my Full Stack Developer learning path.
+</div>
 
-⚡ I am looking for ...
+---
 
-I am currently looking for a job as a developer while continuing my studies as a Systems Engineer, I would like a job preferably as a back end developer, where I can demonstrate my skills with the technologies I usually handle and I can take a step further in my personal training in computer security, soft skills and teamwork.
+# 🚀 About Me
 
-☕ Technologies ...
+I'm a **Full Stack Developer** with strong focus on **backend engineering**, passionate about designing scalable systems and building reliable software solutions.
 
-JavaScript, TypeScript, Python, C#, Arduino and Java.
-ReactJs
-NodeJs
-NextJs
-NestJs
-ViteJs
-Redux
-Express
-Sequelize
-TypeORM
-FastAPI
-MongoDB
-MySQL
-PostgreSQL
-CSS3 and HTML5
-GitFLow
-PostMan
+I specialize in developing **RESTful APIs**, architecting **microservices**, and implementing **cloud-native applications** with modern engineering practices.
 
-🌱 I am currently learning ....
+Over the years, I’ve evolved from full stack product development into deeper backend and infrastructure work, combining:
 
-I am currently a student of Systems Engineering at the University of Antioquia and Computer Science at the National University. I also like to focus my free time to learn in various courses, in this link you can find all my certifications: 
+- Clean Architecture & Domain-Driven Design (DDD)
+- Scalable API development
+- Cloud engineering & service orchestration
+- CI/CD automation
+- Performance optimization
+- System reliability & observability
 
-https://alidev-certificates.vercel.app/
+I enjoy solving complex technical challenges and continuously improving both my code and my engineering mindset.
 
-💻 I have worked in ...
+---
 
-- E-Learning Web Application (8 people)
-- Google Translate Clone Application
-- Movie and Series Rating Application
-- Interactive Video Game for Learning English COIL (8 people)
-- Weather Web Application
-- MERN Technical Test Load Module
-- Connect Four Web Game
-- Digital Circuit Design with Arduino
-- Professional Web Portfolio
-- IT Networking and Infrastructure.
+# 🛠 Tech Stack
 
-📫 How to contact me: ...
+## Languages
 
-- Portfolio: https://alidev-portfolio.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/alisser2001/
-- Instagram: https://www.instagram.com/alisser2001/
-- Facebook: https://www.facebook.com/Alisser2001/
-- Gmail: Estiven25b777@gmail.com
-- Discord Tag: #8172
-- Slack ID: U03LV4KAXAA
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk)
+
+---
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
+![React Native](https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react)
+![Expo](https://img.shields.io/badge/Expo-black?style=flat-square&logo=expo)
+![Vite](https://img.shields.io/badge/Vite-black?style=flat-square&logo=vite)
+![Tailwind](https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=tailwindcss)
+
+---
+
+## Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-black?style=flat-square&logo=nestjs)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot)
+![GraphQL](https://img.shields.io/badge/GraphQL-black?style=flat-square&logo=graphql)
+
+---
+
+## Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
+![SQL Server](https://img.shields.io/badge/SQL_Server-black?style=flat-square&logo=microsoftsqlserver)
+![Supabase](https://img.shields.io/badge/Supabase-black?style=flat-square&logo=supabase)
+
+---
+
+## Cloud & DevOps
+
+![Azure](https://img.shields.io/badge/Azure-black?style=flat-square&logo=microsoftazure)
+![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-black?style=flat-square&logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+![CI/CD](https://img.shields.io/badge/CI/CD-black?style=flat-square&logo=githubactions)
+
+---
+
+# 💼 Professional Experience
+
+## Backend Developer — Innovati
+**Aug 2025 - Present**
+
+- Designed and developed scalable microservices using **FastAPI**
+- Applied **Hexagonal Architecture**, **Dependency Injection**, and **Clean Code**
+- Built backend systems using **DDD** and design patterns
+- Implemented event-driven integrations
+- Managed cloud-native solutions on **Microsoft Azure**
+- Built and maintained **CI/CD pipelines**
+- Improved reliability, security, and observability
+
+---
+
+## Full Stack Developer — BRAI
+**Jan 2025 - Aug 2025**
+
+- Core developer in a fast-growing startup
+- Led technical architecture using:
+  - React
+  - TypeScript
+  - Next.js
+  - Supabase
+- Expanded company capabilities with:
+  - React Native
+  - Shopify
+  - WordPress
+  - AWS
+- Delivered custom solutions that increased client retention by **25%**
+
+---
+
+## Programming Assistant — SIU (UdeA)
+**2024**
+
+- Backend development with **Spring Boot**
+- Cloud solutions on **AWS**
+- Technical support for infrastructure and networks
+
+---
+
+# 🌟 Featured Projects
+
+## 📦 RUUFE
+Warehouse management platform for Latin America's #1 B2C e-commerce hub.
+
+**Tech:** TypeScript · Next.js · Supabase · Shopify
+
+---
+
+## 🤖 FaceMark
+Facial recognition employee attendance system powered by AWS Rekognition.
+
+**Tech:** TypeScript · Next.js · Supabase · AWS Rekognition
+
+---
+
+## 📄 Papeleo
+AI-powered document generation and editing platform.
+
+**Tech:** TypeScript · Next.js · Supabase · OpenAI
+
+---
+
+## 🍸 GioGroupe
+Mobile event management app for premium cocktail and catering services.
+
+**Tech:** React Native · Expo · TypeScript · Supabase
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alisser2001&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisser2001&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+Currently deepening my expertise in:
+
+- Backend Architecture
+- Cloud Infrastructure
+- DevOps Practices
+- Distributed Systems
+- Scalability & Reliability Engineering
+- Automation & CI/CD
+
+---
+
+# 📫 Let's Connect
+
+Feel free to connect or collaborate.
+
+**LinkedIn:** https://www.linkedin.com/in/alisser2001/  
+**Email:** estiven25b777@gmail.com
+
+---
+
+<div align="center">
+
+### Always building. Always learning. 🚀
+
+</div>
