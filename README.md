@@ -160,6 +160,13 @@ Mobile event management app for premium cocktail and catering services.
 
 ---
 
+## 🏊 Cardumen
+Mobile application for the management of athletes and coaches for the Cardumen swimming club.
+
+**Tech:** React Native · Expo · TypeScript · Supabase
+
+---
+
 # 📈 GitHub Stats
 
 <div align="center">
