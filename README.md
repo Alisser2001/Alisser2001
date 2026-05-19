@@ -9,7 +9,7 @@ Passionate about building scalable backend systems, cloud-native applications, a
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Estiven_Muñoz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alisser2001/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-black?style=for-the-badge&logo=vercel)](https://alidev-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Online-success?style=for-the-badge&logo=vercel)](https://alidev-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:estiven25b777@gmail.com)
 
 </div>
@@ -164,9 +164,9 @@ Mobile event management app for premium cocktail and catering services.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alisser2001&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Alisser2001&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisser2001&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alisser2001&layout=compact&theme=tokyonight)
 
 </div>
 
